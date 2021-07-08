@@ -1,4 +1,4 @@
-package Restaurant;
+package Customer;
 
 public class Customer {
     private int customerID;

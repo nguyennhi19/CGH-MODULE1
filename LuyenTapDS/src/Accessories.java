@@ -1,5 +1,3 @@
-package ShopPiMap;
-
 public class Accessories {
     String name;
     int price;

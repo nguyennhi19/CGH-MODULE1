@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1be7091b-3a38-4c0c-b7e0-204bdeec8795" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/BT1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/BT1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/TH/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/TH1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/TH1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/BT/IllegalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/TH/ArrayExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/TH/CalculationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/src/TH/Debug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapDS/src/DanhBa/DanhBa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapDS/src/DanhBa/DanhBaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapDS/src/DanhBa/DanhbaDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapDS/src/DanhBa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/Accessories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/PetP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/PetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextFile/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextFile/src/TH/ReadAndWriteFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TextFile/src/TH/ReadFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threading/src/Car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threading/src/Car/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threading/src/Count/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threading/src/Count/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threading/src/RunnableDemo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Threading/src/RunnableDemo/RunnableDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1urdPRYJzYdGTf7OTqPpzgnxs4t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1be7091b-3a38-4c0c-b7e0-204bdeec8795" name="Default Changelist" comment="" />
+      <created>1625427617104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625427617104</updated>
+      <workItem from="1625427618542" duration="141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

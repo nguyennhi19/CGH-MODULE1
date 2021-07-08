@@ -1,5 +1,7 @@
-package Restaurant;
+package Product;
 
+
+import Product.Product;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -8,12 +10,12 @@ import java.util.List;
 public class ProductP {
     List<Product> products = new ArrayList<>();
     public void add(){
-        Product product1 = new Product("Gà rán", 20000, "nhỏ", 1);
-        Product product2 = new Product("Gà rán", 25000, "vừa", 1);
-        Product product3 = new Product("Gà rán", 30000, "lớn", 1);
-        Product product4 = new Product("Phô mai que", 20000, "nhỏ", 1);
-        Product product5 = new Product("Khoai tây chiên", 25000, "vừa", 1);
-        Product product6 = new Product("Cá viên chiên", 30000, "lớn", 1);
+        Product product1 = new  Product("Gà rán", 20000, "nhỏ", 1);
+        Product product2 = new  Product("Gà rán", 25000, "vừa", 1);
+        Product product3 = new  Product("Gà rán", 30000, "lớn", 1);
+        Product product4 = new  Product("Phô mai que", 20000, "nhỏ", 1);
+        Product product5 = new  Product("Khoai tây chiên", 25000, "vừa", 1);
+        Product product6 = new  Product("Cá viên chiên", 30000, "lớn", 1);
         products.add(product1);
         products.add(product2);
         products.add(product3);

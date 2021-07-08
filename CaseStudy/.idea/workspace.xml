@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ee0a2d1-3419-4436-acfa-56338ed05b0a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModul2/CaseStudyModul2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModul2/src/Pet/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModul2/src/Pet/dal/PetP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModul2/src/Pet/model/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudyModul2/src/Pet/service/PetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quản lý trang trại Mèo/Quản lý trang trại Mèo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UngDungQuanLyTrangTrại/UngDungQuanLyTrangTrai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UngDungQuanLyTrangTrại/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UngDungQuanLyTrangTrại/src/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UngDungQuanLyTrangTrại/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UngDungQuanLyTrangTrại/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db/src/DanhBa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db/src/DanhBaDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db/src/DanhBaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db/src/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTanhminh/src/Customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTanhminh/src/Customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTanhminh/src/Product/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTanhminh/src/Product/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTanhminh/src/Product/ProductP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTanhminh/src/Product/ProductP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTanhminh/src/Restaurant/POrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTanhminh/src/Restaurant/POrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTanhminh/src/Restaurant/table.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTanhminh/src/Restaurant/table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/BT1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/BT1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/BT1/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/BT1/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/TH/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/TH/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/TH1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/TH1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/TH1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryFileAndSerialization/src/TH1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Customer/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Customer/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pet/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pet/PetP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pet/PetService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Shop/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyMoudule2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyMoudule2/src/Pet/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyMoudule2/src/Pet/PetP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyMoudule2/src/Pet/PetService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyMoudule2/src/Shop/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CaseStudyMoudule2/src/Shop/ShopP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception/src/BT/IllegalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception/src/BT/IllegalTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception/src/TH/ArrayExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception/src/TH/ArrayExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception/src/TH/CalculationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception/src/TH/CalculationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception/src/TH/Debug.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Exception/src/TH/Debug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/Accessories.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LuyenTapDS/src/Accessories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/DanhBa/DanhBa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LuyenTapDS/src/DanhBa/DanhBa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/DanhBa/DanhBaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LuyenTapDS/src/DanhBa/DanhBaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/DanhBa/DanhbaDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LuyenTapDS/src/DanhBa/DanhbaDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/DanhBa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LuyenTapDS/src/DanhBa/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/Restaurant/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/Restaurant/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/Restaurant/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/Restaurant/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/Restaurant/ProductP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/Restaurant/Restaurant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LuyenTapDS/src/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/PetP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/PetP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/PetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LuyenTapDS/src/ShopPiMap/PetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quản lý trang trại Mèo/src/Pet/Dal/PetP.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quản lý trang trại Mèo/src/Pet/Dal/PetP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quản lý trang trại Mèo/src/Pet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quản lý trang trại Mèo/src/Pet/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quản lý trang trại Mèo/src/Pet/Model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quản lý trang trại Mèo/src/Pet/Model/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quản lý trang trại Mèo/src/Pet/Service/PetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Quản lý trang trại Mèo/src/Pet/Service/PetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringAndRegex/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringAndRegex/out/production/StringAndRegex/CrawlSongExample/CrawlSongExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../StringAndRegex/out/production/StringAndRegex/CrawlSongExample/CrawlSongExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringAndRegex/src/TH/EmailExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringAndRegex/src/TH/EmailExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringAndRegex/src/TH/EmailExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringAndRegex/src/TH/EmailExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringAndRegex/src/TH1/AccountExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringAndRegex/src/TH1/AccountExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringAndRegex/src/TH1/AccountExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringAndRegex/src/TH1/AccountExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextFile/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TextFile/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextFile/src/TH/ReadAndWriteFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TextFile/src/TH/ReadAndWriteFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TextFile/src/TH/ReadFileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TextFile/src/TH/ReadFileExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threading/src/Car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Threading/src/Car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threading/src/Car/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Threading/src/Car/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threading/src/Count/Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Threading/src/Count/Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threading/src/Count/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Threading/src/Count/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threading/src/RunnableDemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Threading/src/RunnableDemo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threading/src/RunnableDemo/RunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Threading/src/RunnableDemo/RunnableDemo.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uvDEneXpsyyqrDzYrA0nNkKcvr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="15" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CaseStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ee0a2d1-3419-4436-acfa-56338ed05b0a" name="Default Changelist" comment="" />
+      <created>1625537059546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625537059546</updated>
+      <workItem from="1625537067612" duration="7532000" />
+      <workItem from="1625559399567" duration="4837000" />
+      <workItem from="1625588583923" duration="1534000" />
+      <workItem from="1625620351735" duration="1066000" />
+      <workItem from="1625626967627" duration="1780000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1625629701901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1625629701901" />
+    <state x="450" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1625541379524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1625541379524" />
+    <state width="1323" height="105" key="GridCell.Tab.0.bottom" timestamp="1625564069337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1625564069337" />
+    <state width="1323" height="105" key="GridCell.Tab.0.center" timestamp="1625564069337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1625564069337" />
+    <state width="1323" height="105" key="GridCell.Tab.0.left" timestamp="1625564069337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1625564069337" />
+    <state width="1323" height="105" key="GridCell.Tab.0.right" timestamp="1625564069337">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="105" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1625564069337" />
+    <state x="65" y="0" key="new project wizard" timestamp="1625629713603">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1625629713603" />
+    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup" timestamp="1625563946779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1625563946779" />
+  </component>
+</project>

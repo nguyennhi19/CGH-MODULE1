@@ -1,5 +1,3 @@
-package ShopPiMap;
-
 public class Shop {
     String name;
     String address;
